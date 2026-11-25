@@ -6,7 +6,7 @@
 ---  
 # Um pouco (?) mais....
 
-> Professor do Ensino Superior · CEFET/RJ
+> Professor do Ensino Superior · UFCIRJ
 
 **Bacharelado em Sistemas de Informação** · Campus Maria da Graça  
 **Mestre em Informática pela UFRJ**
@@ -17,17 +17,18 @@
 
 ## Sobre o Professor
 
-Professor efetivo do CEFET/RJ em regime de dedicação exclusiva, atuando na Coordenação do Bacharelado em Sistemas de Informação na Unidade Descentralizada Maria da Graça.
+Professor efetivo da Universidade Federal de Ciencia e Inovação (antigo CEFET/RJ) - Campus Maria da Graça; em regime de dedicação exclusiva, atuando na Coordenação do Bacharelado em Sistemas de Informação como professor e coordenador.
 
-Possui **Mestrado em Informática pela UFRJ (2022)** com a dissertação *"Avaliação de Assistentes Virtuais Inteligentes: Aplicando Análise Envoltória de Dados (DEA)"*.
+Atualmente **Doutorando em Informática pela UFRJ (2026)**; Orientador: Eber Assis Schmitz; Coorientador: Sildenir Alves Ribeiro
 
-- Orientador: Eber Assis Schmitz
-- Coorientador: Sildenir Alves Ribeiro
-- Graduação em Processamento de Dados (PUC-Rio, 1998)
+- Mestre em Informática pela UFRJ (2022) com a dissertação *"Avaliação de Assistentes Virtuais Inteligentes: Aplicando Análise Envoltória de Dados (DEA)"*.
 - Especialização em Análise, Projeto e Gerência de Sistemas (PUC-Rio, 2003)
+- Graduação em Processamento de Dados (PUC-Rio, 1998)
 
 ### Áreas de Interesse
 
+- Modelagem Baseada em Agentes
+- Mercados Artificiais
 - Inteligência Artificial
 - Assistentes Virtuais Inteligentes
 - Ciência de Dados
@@ -40,6 +41,9 @@ Possui **Mestrado em Informática pela UFRJ (2022)** com a dissertação *"Avali
 ---
 
 # Formação Acadêmica
+
+## 2026 | Doutorando em Informática
+**Universidade Federal do Rio de Janeiro (UFRJ)**
 
 ## 2019–2022 | Mestrado em Informática
 **Universidade Federal do Rio de Janeiro (UFRJ)**
@@ -58,11 +62,13 @@ Dissertação: *Avaliação de Assistentes Virtuais Inteligentes: Aplicando Aná
 
 ## Disciplinas Ministradas
 
-- Algoritmos e Estruturas de Dados II
+- Projeto Final I e II
+- Fábvrica de Software I, II e III
+- Algoritmos e Estruturas de Dados I e II
 - Desenvolvimento de Aplicativo
+- Linguagem de Programação I
 - Robótica
 - Programação em Python
-- Projeto Final II
 
 ### Disciplinas anteriores no Ensino Técnico
 
