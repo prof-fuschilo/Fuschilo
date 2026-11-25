@@ -1,29 +1,30 @@
-# Resumo, bem resumido....
+# Cristiano Fuschilo
+
+## Resumo, bem resumido....
 👋 Oi, eu sou @prof-fuschilo (Cristiano Fuschilo)  
 👀 Me interesso por Agentes Inteligentes em Mercados Artificiais e Inteligência Artificial.  
 📫 Pode me encontrar pelo cristiano.fuschilo@cefet-rj.br  
    
 ---  
-# Um pouco (?) mais....
 
-> Professor do Ensino Superior · UFCIRJ
-
-**Bacharelado em Sistemas de Informação** · Campus Maria da Graça  
-**Mestre em Informática pela UFRJ**
-
-**Currículo Lattes:** http://lattes.cnpq.br/1214558945534442
+## Um pouco mais sobre mim 💀
+Sou professor efetivo e estou coordenador do Bacharelado em Sistemas de Informação na **Universidade Federal de Ciência e Inovação do Rio de Janeiro, Campus Maria da Graça (antigo CEFET/RJ)**, pesquisador do laboratório **MAF — Mundos Artificiais em Finanças** (**PPGI/UFRJ** e **UFCIRJ Maria da Graça**) e doutorando em Informática na **UFRJ** (início em 2026).
 
 ---
 
-## Sobre o Professor
+## Identificação e Vínculos
 
-Professor efetivo da Universidade Federal de Ciencia e Inovação (antigo CEFET/RJ) - Campus Maria da Graça; em regime de dedicação exclusiva, atuando na Coordenação do Bacharelado em Sistemas de Informação como professor e coordenador.
-
-Atualmente **Doutorando em Informática pela UFRJ (2026)**; Orientador: Eber Assis Schmitz; Coorientador: Sildenir Alves Ribeiro
-
-- Mestre em Informática pela UFRJ (2022) com a dissertação *"Avaliação de Assistentes Virtuais Inteligentes: Aplicando Análise Envoltória de Dados (DEA)"*.
-- Especialização em Análise, Projeto e Gerência de Sistemas (PUC-Rio, 2003)
-- Graduação em Processamento de Dados (PUC-Rio, 1998)
+* **Nome completo:** Cristiano Fuschilo
+* **Citações bibliográficas:** `FUSCHILO, C.`; `FUSCHILO, CRISTIANO`
+* **Atuação institucional:** Professor EBTT e Coordenador do Bacharelado em Sistemas de Informação (Campus Maria da Graça)
+* **Laboratório de pesquisa:** **MAF — Mundos Artificiais em Finanças** (PPGI/UFRJ e CEFET/RJ Maria da Graça)
+* **Endereço profissional:** Rua Miguel Ângelo, 96 — Maria da Graça, CEP 20785-220, Rio de Janeiro — RJ, Brasil
+* **Telefone:** [(21) 3278-5502](tel:2132785502)
+* **Identificadores e links:**
+  * **Currículo Lattes:** [1214558945534442](https://busca-cv-lattes.cnpq.br/curriculo/1214558945534442)
+  * **ORCID:** [0000-0003-2050-8074](http://orcid.org/0000-0003-2050-8074)
+  * **Fomento CNPq:** [Perfil CNPq](https://busca-cv-lattes.cnpq.br/fomento-cnpq/1214558945534442)
+  * **Instituição:** <http://www.cefet-rj.br/>
 
 ### Áreas de Interesse
 
@@ -40,27 +41,47 @@ Atualmente **Doutorando em Informática pela UFRJ (2026)**; Orientador: Eber Ass
 
 ---
 
-# Formação Acadêmica
+## Formação Acadêmica
 
-## 2026 | Doutorando em Informática
+### 2026— em andamento | Doutorando em Informática
 **Universidade Federal do Rio de Janeiro (UFRJ)**
 
-## 2019–2022 | Mestrado em Informática
+Tese: *Agentes Investidores em um Mercado Artificial Simulado à B3: Modelagem Baseada em Agentes Aplicada à Análise de Investidores no Mercado de Ações Brasileira - Mundo Artificial em Finanças*
+  * **Orientação:** Prof. Dr. Eber Assis Schmitz | **Coorientação:** Sildenir Alves Ribeiro (Pós-doutorando)
+  * **Palavras-chave:** Modelagem Baseada em Agentes, Agentes Inteligentes, Simulação, Mercado de Ações
+
+### 2019–2022 | Mestrado em Informática
 **Universidade Federal do Rio de Janeiro (UFRJ)**
 
 Dissertação: *Avaliação de Assistentes Virtuais Inteligentes: Aplicando Análise Envoltória de Dados (DEA)*.
+  * **Orientação:** Prof. Dr. Eber Assis Schmitz
+  * **Área:** Information Systems and Computer Science
+  * **Palavras-chave:** Assistentes Virtuais Inteligentes, Análise Envoltória de Dados, Avaliação de AVI's
 
-## 2003 | Especialização em Análise, Projeto e Gerência de Sistemas
-**PUC-Rio**
+### 2003 | Especialização em Análise, Projeto e Gerência de Sistemas
+**PUC-Rio** — Carga horária: 540h (`ISPN`)
 
-## 1993–1998 | Graduação em Processamento de Dados
-**PUC-Rio**
+### 1993–1998 | Graduação em Processamento de Dados
+**PUC-Rio** Título: `Album Digital`
 
 ---
 
-# Atividades de Ensino
+## Pesquisa — Laboratório MAF (UFRJ / CEFET-RJ)
 
-## Disciplinas Ministradas
+O laboratório **MAF — Mundos Artificiais em Finanças** atua com simulações complexas, ecossistemas multiagente (**ABMS**) e inteligência artificial para replicar, estudar e antecipar o comportamento emergente de mercados financeiros, reunindo **6 pesquisadores**, **6 frentes de pesquisa**, **2 instituições** (PPGI/UFRJ e CEFET/RJ Maria da Graça) e simulações com **140 agentes sintéticos autônomos** (incluindo perfis como fundamentalistas, chartistas e ruído, além de cenários como choque de liquidez).
+
+### Produções e Trabalhos Selecionados no Acervo do MAF
+
+* **2025 (Congresso):** *Simulação Baseada em Agentes e Indicadores em ILPIs: Um Estudo para o Desenvolvimento do GeronTrack* — SANTOS, R. O.; FERREIRA, E.; **FUSCHILO, C.** (*Anais do XIX WESAAC* — ABMS, Simulação)
+* **2021 (Congresso):** *Uma Proposta para Seleção de Portfólios Eficientes Utilizando Análise Envoltória de Dados (DEA)* — **FUSCHILO, C.**; SCHMITZ, E. A.; FEIJÓ, M. (*18th CONTECSI* — Finanças Quantitativas, DEA)
+
+Outras produções listadas no repositório do MAF abrangem temas como Mercados Artificiais, ABMS, DEA, Educação Financeira / OBInvest, Engenharia de Software, Otimização, Simulação e Modelagem (trabalhos de 2018 a 2026).
+
+---
+
+## Atividades de Ensino
+
+### Disciplinas Ministradas
 
 - Projeto Final I e II
 - Fábvrica de Software I, II e III
@@ -80,27 +101,27 @@ Dissertação: *Avaliação de Assistentes Virtuais Inteligentes: Aplicando Aná
 
 ---
 
-# Projetos de Extensão e Inovação
+## Projetos de Extensão e Inovação
 
-## DragonDrone
+### DragonDrone
 Drone de voo autônomo para competições tecnológicas.
 
-## Toxiscan
+### Toxiscan
 Sistema para detecção e alerta de gases tóxicos.
 
-## Ecoboat
+### Ecoboat
 Embarcação autônoma para coleta de resíduos.
 
-## Alimentador de Pets IoT
+### Alimentador de Pets IoT
 Dispositivo automatizado conectado à internet.
 
-## Respirador Mecânico Covid‑19
+### Respirador Mecânico Covid‑19
 Protótipo emergencial com impressão 3D.
 
-## WALL-E
+### WALL-E
 Robô educacional para oficinas e divulgação científica.
 
-## Protótipo do Veículo do Futuro
+### Protótipo do Veículo do Futuro
 Veículo terrestre autônomo em escala reduzida.
 
 ---
@@ -143,27 +164,5 @@ Veículo terrestre autônomo em escala reduzida.
 - **1997–1998:** Programador Multimídia – Hicom Comunicação Integrada
 - **1994–1996:** Monitor e Estagiário – PUC‑Rio
 
----
 
-# Contato e Localização
 
-## Endereço
-CEFET/RJ – UnED Maria da Graça  
-Rua Miguel Ângelo, 96  
-Rio de Janeiro – RJ  
-CEP 20785‑220
-
-## Telefone
-(21) 3278‑5502
-
-## E-mail
-cristiano.fuschilo@cefet-rj.br
-
-## Links
-- Lattes: http://lattes.cnpq.br/1214558945534442
-- ORCID: https://orcid.org/0000-0003-2050-8074
-- CEFET/RJ: https://www.cefet-rj.br
-
----
-
-© 2026 Cristiano Fuschilo · CEFET/RJ
