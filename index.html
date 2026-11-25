@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cristiano Fuschilo — Currículo e Pesquisa (MAF / UFRJ / CEFET-RJ)</title>
+  <style>
+    :root {
+      --bg: #f4f7fb;
+      --surface: #ffffff;
+      --primary: #0f3d5e;
+      --accent: #0d9488;
+      --text: #1e293b;
+      --muted: #475569;
+      --border: #e2e8f0;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    header {
+      background: linear-gradient(135deg, var(--primary), #165b88);
+      color: #ffffff;
+      padding: 2.5rem 1.5rem;
+    }
+
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+    }
+
+    header h1 {
+      font-size: 2rem;
+      font-weight: 700;
+      margin-bottom: 0.4rem;
+    }
+
+    header p {
+      color: #e2e8f0;
+      max-width: 75ch;
+      font-size: 1.02rem;
+    }
+
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.55rem;
+      margin-top: 1.1rem;
+    }
+
+    .badge {
+      display: inline-block;
+      background: rgba(255, 255, 255, 0.14);
+      border: 1px solid rgba(255, 255, 255, 0.28);
+      color: #ffffff;
+      padding: 0.3rem 0.75rem;
+      border-radius: 999px;
+      font-size: 0.85rem;
+      text-decoration: none;
+    }
+
+    .badge:hover {
+      background: rgba(255, 255, 255, 0.25);
+    }
+
+    main {
+      padding: 2rem 1.5rem 3.5rem;
+      display: grid;
+      gap: 1.5rem;
+    }
+
+    section {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.5rem;
+      box-shadow: 0 2px 6px rgba(15, 23, 42, 0.04);
+    }
+
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary);
+      margin-bottom: 1rem;
+      padding-bottom: 0.45rem;
+      border-bottom: 2px solid var(--border);
+    }
+
+    .grid-2 {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+      gap: 1rem;
+    }
+
+    .card {
+      background: #f8fafc;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1rem;
+    }
+
+    .card-label {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--muted);
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+    }
+
+    .card-value {
+      font-size: 0.96rem;
+      color: var(--text);
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 0.9rem;
+      margin: 1rem 0 1.25rem;
+    }
+
+    .stat-card {
+      background: #f8fafc;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 0.9rem;
+      text-align: center;
+    }
+
+    .stat-num {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--accent);
+    }
+
+    .stat-label {
+      font-size: 0.82rem;
+      color: var(--muted);
+    }
+
+    .edu-item {
+      border-left: 3px solid var(--accent);
+      padding-left: 1rem;
+      margin-bottom: 1.25rem;
+    }
+
+    .edu-item:last-child {
+      margin-bottom: 0;
+    }
+
+    .edu-period {
+      font-size: 0.85rem;
+      font-weight: 700;
+      color: var(--accent);
+    }
+
+    .edu-title {
+      font-size: 1.05rem;
+      font-weight: 600;
+      color: var(--primary);
+    }
+
+    .edu-inst {
+      font-size: 0.95rem;
+      color: var(--muted);
+      margin-bottom: 0.3rem;
+    }
+
+    .edu-detail {
+      font-size: 0.92rem;
+      margin-top: 0.2rem;
+    }
+
+    .keywords {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      margin-top: 0.5rem;
+    }
+
+    .keyword {
+      background: #e6fffa;
+      color: #0f766e;
+      border: 1px solid #ccfbf1;
+      font-size: 0.8rem;
+      padding: 0.18rem 0.55rem;
+      border-radius: 6px;
+      font-weight: 500;
+    }
+
+    ul {
+      padding-left: 1.25rem;
+    }
+
+    li {
+      margin-bottom: 0.5rem;
+      font-size: 0.95rem;
+    }
+
+    a {
+      color: var(--primary);
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      text-align: center;
+      color: var(--muted);
+      font-size: 0.85rem;
+      padding: 1.5rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Cristiano Fuschilo</h1>
+      <p>
+        Professor EBTT e Coordenador do Bacharelado em Sistemas de Informação no CEFET/RJ
+        (Campus Maria da Graça), pesquisador do laboratório MAF — Mundos Artificiais em Finanças
+        (PPGI/UFRJ e CEFET/RJ) e doutorando em Informática na UFRJ.
+      </p>
+      <div class="badges">
+        <a class="badge" href="https://busca-cv-lattes.cnpq.br/curriculo/1214558945534442" target="_blank" rel="noopener noreferrer">
+          Lattes ID: 1214558945534442
+        </a>
+        <a class="badge" href="http://orcid.org/0000-0003-2050-8074" target="_blank" rel="noopener noreferrer">
+          ORCID: 0000-0003-2050-8074
+        </a>
+        <a class="badge" href="https://busca-cv-lattes.cnpq.br/fomento-cnpq/1214558945534442" target="_blank" rel="noopener noreferrer">
+          Fomento CNPq
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="biografia">
+      <h2>Biografia</h2>
+      <p>
+        Professor do ensino superior na Universidade Federal de Ciência e Inovação do Rio de Janeiro,
+        Campus Maria da Graça (anteriormente Centro Federal de Educação Tecnológica Celso Suckow da
+        Fonseca — CEFET-RJ). Atua como professor e coordenador do curso de Bacharelado em Sistemas de
+        Informação. Doutorando em Informática na Universidade Federal do Rio de Janeiro (UFRJ), Brasil,
+        com início em 2026, sob orientação de Eber Assis Schmitz (Ph.D.) e coorientação de Sildenir
+        Alves Ribeiro (pesquisador de pós-doutorado).
+      </p>
+    </section>
+
+    <section id="identificacao">
+      <h2>Identificação e Endereço Profissional</h2>
+      <div class="grid-2">
+        <div class="card">
+          <div class="card-label">Nome e Citações Bibliográficas</div>
+          <div class="card-value">
+            <strong>Cristiano Fuschilo</strong><br />
+            Citações: <code>FUSCHILO, C.</code>; <code>FUSCHILO, CRISTIANO</code>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-label">Instituição / Campus</div>
+          <div class="card-value">
+            Universidade Federal de Ciência e Inovação do Rio de Janeiro — Campus Maria da Graça (CEFET-RJ)
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-label">Endereço Profissional</div>
+          <div class="card-value">
+            Rua Miguel Ângelo, 96 — Maria da Graça<br />
+            CEP 20785-220 — Rio de Janeiro — Brasil
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-label">Contato e Links</div>
+          <div class="card-value">
+            Telefone: <a href="tel:2132785502">(21) 3278-5502</a><br />
+            Site: <a href="http://www.cefet-rj.br/" target="_blank" rel="noopener noreferrer">http://www.cefet-rj.br/</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="formacao">
+      <h2>Formação Acadêmica e Titulação</h2>
+
+      <div class="edu-item">
+        <div class="edu-period">2026 — Em andamento</div>
+        <div class="edu-title">Doutorado em Informática</div>
+        <div class="edu-inst">Universidade Federal do Rio de Janeiro (UFRJ), Brasil</div>
+        <div class="edu-detail">
+          <strong>Título:</strong> AGENTES INVESTIDORES EM UM MERCADO ARTIFICIAL SIMULADO À B3: Modelagem
+          Baseada em Agentes Aplicada à Análise de Investidores no Mercado de Ações Brasileira - Mundo
+          Artificial em Finanças.
+        </div>
+        <div class="edu-detail"><strong>Orientador:</strong> Eber Assis Schmitz · <strong>Coorientador:</strong> Sildenir Alves Ribeiro</div>
+        <div class="edu-detail"><strong>Setor de atividade:</strong> Educação</div>
+        <div class="keywords">
+          <span class="keyword">Modelagem Baseada em Agentes</span>
+          <span class="keyword">Agentes Inteligentes</span>
+          <span class="keyword">Simulação</span>
+          <span class="keyword">Mercado de Ações</span>
+        </div>
+      </div>
+
+      <div class="edu-item">
+        <div class="edu-period">2019 — 2022</div>
+        <div class="edu-title">Mestrado em Informática</div>
+        <div class="edu-inst">Universidade Federal do Rio de Janeiro (UFRJ), Brasil</div>
+        <div class="edu-detail">
+          <strong>Título:</strong> Avaliação de Assistentes Virtuais Inteligentes: Aplicando Análise
+          Envoltória de Dados (DEA) (Ano de obtenção: 2022)
+        </div>
+        <div class="edu-detail"><strong>Orientador:</strong> Eber Assis Schmitz</div>
+        <div class="edu-detail"><strong>Área:</strong> Information Systems and Computer Science</div>
+        <div class="keywords">
+          <span class="keyword">Assistentes Virtuais Inteligentes</span>
+          <span class="keyword">Análise Envoltória de Dados</span>
+          <span class="keyword">Avaliação de AVI's</span>
+        </div>
+      </div>
+
+      <div class="edu-item">
+        <div class="edu-period">2003 — 2003</div>
+        <div class="edu-title">Especialização em Análise, Projeto e Gerência de Sistemas (540h)</div>
+        <div class="edu-inst">Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio), Brasil</div>
+        <div class="edu-detail"><strong>Título:</strong> ISPN</div>
+      </div>
+
+      <div class="edu-item">
+        <div class="edu-period">1993 — 1998</div>
+        <div class="edu-title">Graduação em Tecnologia em Nível Superior em Processamento de Dados</div>
+        <div class="edu-inst">Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio), Brasil</div>
+        <div class="edu-detail"><strong>Título:</strong> Album Digital</div>
+      </div>
+    </section>
+
+    <section id="maf">
+      <h2>Laboratório MAF — Mundos Artificiais em Finanças (UFRJ / CEFET-RJ)</h2>
+      <p>
+        Laboratório de pesquisa vinculado ao PPGI/UFRJ e ao CEFET/RJ Maria da Graça, dedicado a
+        simulações complexas, ecossistemas multiagente (ABMS) e inteligência artificial para replicar,
+        estudar e antecipar o comportamento emergente de mercados financeiros.
+      </p>
+
+      <div class="stats">
+        <div class="stat-card">
+          <div class="stat-num">6</div>
+          <div class="stat-label">Pesquisadores</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-num">6</div>
+          <div class="stat-label">Frentes de Pesquisa</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-num">140</div>
+          <div class="stat-label">Agentes Sintéticos Autônomos</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-num">2</div>
+          <div class="stat-label">Instituições (UFRJ / CEFET-RJ)</div>
+        </div>
+      </div>
+
+      <ul>
+        <li>
+          <strong>Simulação Baseada em Agentes e Indicadores em ILPIs: Um Estudo para o Desenvolvimento do GeronTrack</strong>
+          (2025) — SANTOS, R. O.; FERREIRA, E.; FUSCHILO, C. (Anais do XIX WESAAC — Simulação, ABMS).
+        </li>
+        <li>
+          <strong>Uma Proposta para Seleção de Portfólios Eficientes Utilizando Análise Envoltória de Dados (DEA)</strong>
+          (2021) — FUSCHILO, C.; SCHMITZ, E. A.; FEIJÓ, M. (18th CONTECSI — Finanças Quantitativas, DEA).
+        </li>
+        <li>
+          <strong>Linhas temáticas do laboratório (2018–2026):</strong> Mercados Artificiais, ABMS (agentes
+          fundamentalistas, chartistas e ruído; simulação de choque de liquidez), DEA, Educação Financeira /
+          OBInvest, Engenharia de Software, Otimização, Simulação e Modelagem.
+        </li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    Dados compilados a partir do Currículo Lattes (atualizado em 25/11/2026) e do portal do laboratório MAF (UFRJ / CEFET-RJ).
+  </footer>
+</body>
+</html>
