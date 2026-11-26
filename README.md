@@ -26,7 +26,9 @@ Sou professor efetivo e estou coordenador do Bacharelado em Sistemas de Informa�
   * **Fomento CNPq:** [Perfil CNPq](https://busca-cv-lattes.cnpq.br/fomento-cnpq/1214558945534442)
   * **Instituição:** <http://www.cefet-rj.br/>
 
-### Áreas de Interesse
+---
+
+## Áreas de Interesse
 
 - Modelagem Baseada em Agentes
 - Mercados Artificiais
@@ -43,25 +45,24 @@ Sou professor efetivo e estou coordenador do Bacharelado em Sistemas de Informa�
 
 ## Formação Acadêmica
 
-### 2026— em andamento | Doutorando em Informática
+### 2026 — em andamento | Doutorando em Informática
 **Universidade Federal do Rio de Janeiro (UFRJ)**
 
 Tese: *Agentes Investidores em um Mercado Artificial Simulado à B3: Modelagem Baseada em Agentes Aplicada à Análise de Investidores no Mercado de Ações Brasileira - Mundo Artificial em Finanças*
   * **Orientação:** Prof. Dr. Eber Assis Schmitz | **Coorientação:** Sildenir Alves Ribeiro (Pós-doutorando)
   * **Palavras-chave:** Modelagem Baseada em Agentes, Agentes Inteligentes, Simulação, Mercado de Ações
 
-### 2019–2022 | Mestrado em Informática
+### 2019 – 2022 | Mestrado em Informática
 **Universidade Federal do Rio de Janeiro (UFRJ)**
 
 Dissertação: *Avaliação de Assistentes Virtuais Inteligentes: Aplicando Análise Envoltória de Dados (DEA)*.
   * **Orientação:** Prof. Dr. Eber Assis Schmitz
-  * **Área:** Information Systems and Computer Science
   * **Palavras-chave:** Assistentes Virtuais Inteligentes, Análise Envoltória de Dados, Avaliação de AVI's
 
-### 2003 | Especialização em Análise, Projeto e Gerência de Sistemas
+### 2003 - 2003 | Especialização em Análise, Projeto e Gerência de Sistemas
 **PUC-Rio** — Carga horária: 540h (`ISPN`)
 
-### 1993–1998 | Graduação em Processamento de Dados
+### 1993 – 1998 | Graduação em Processamento de Dados
 **PUC-Rio** Título: `Album Digital`
 
 ---
@@ -70,10 +71,19 @@ Dissertação: *Avaliação de Assistentes Virtuais Inteligentes: Aplicando Aná
 
 O laboratório **MAF — Mundos Artificiais em Finanças** atua com simulações complexas, ecossistemas multiagente (**ABMS**) e inteligência artificial para replicar, estudar e antecipar o comportamento emergente de mercados financeiros, reunindo **6 pesquisadores**, **6 frentes de pesquisa**, **2 instituições** (PPGI/UFRJ e CEFET/RJ Maria da Graça) e simulações com **140 agentes sintéticos autônomos** (incluindo perfis como fundamentalistas, chartistas e ruído, além de cenários como choque de liquidez).
 
-### Produções e Trabalhos Selecionados no Acervo do MAF
+### Produção Científica
 
-* **2025 (Congresso):** *Simulação Baseada em Agentes e Indicadores em ILPIs: Um Estudo para o Desenvolvimento do GeronTrack* — SANTOS, R. O.; FERREIRA, E.; **FUSCHILO, C.** (*Anais do XIX WESAAC* — ABMS, Simulação)
-* **2021 (Congresso):** *Uma Proposta para Seleção de Portfólios Eficientes Utilizando Análise Envoltória de Dados (DEA)* — **FUSCHILO, C.**; SCHMITZ, E. A.; FEIJÓ, M. (*18th CONTECSI* — Finanças Quantitativas, DEA)
+#### 2025 | SANTOS, R. O.; FERREIRA, E.; FUSCHILO, C. 
+- *Simulação Baseada em Agentes e Indicadores em ILPIs: Um Estudo para o Desenvolvimento do GeronTrack* (Anais do XIX WESAAC — ABMS, Simulação)
+
+#### 2021 | FUSCHILO, C.; SCHMITZ, E. A.; FEIJÓ, M. 
+- *Uma Proposta para Seleção de Portfólios Eficientes Utilizando Análise Envoltória de Dados (DEA)* (18th CONTECSI — Finanças Quantitativas, DEA)
+
+#### 2019 | FUSCHILO, C.; ALENCAR, A. J.; SCHMITZ, E. A. 
+- *Proposta de uma Metodologia de Avaliação de Assistentes Virtuais Inteligentes: Aplicando DEA*.
+
+#### 2017 | LIMA, A. S.; RIBEIRO, S. A.; ALMEIDA, L. F.; FUSCHILO, C. 
+- *Um Sistema de Comunicação via Socket em uma Rede Wi‑Fi para Controle de um Robô de Inspeção*.
 
 Outras produções listadas no repositório do MAF abrangem temas como Mercados Artificiais, ABMS, DEA, Educação Financeira / OBInvest, Engenharia de Software, Otimização, Simulação e Modelagem (trabalhos de 2018 a 2026).
 
@@ -99,64 +109,42 @@ Outras produções listadas no repositório do MAF abrangem temas como Mercados 
 - Arquitetura e Operação de Computadores
 - Banco de Dados
 
----
+### Orientações Concluídas
 
-## Projetos de Extensão e Inovação
+#### 2024 | Fernanda Pereira Muniz
+- *Aplicação para Otimização da Gestão de Pessoal na Atlântica Soluções*.
 
-### DragonDrone
-Drone de voo autônomo para competições tecnológicas.
+#### 2023 | Vanessa Gonçalves Pais da Silva
+- *Um Estudo de Caso sobre Problemas de Implantação de Software Off‑the‑Shelf em um Órgão Público Brasileiro*.
 
-### Toxiscan
-Sistema para detecção e alerta de gases tóxicos.
+### Projetos de Extensão e Inovação
 
-### Ecoboat
-Embarcação autônoma para coleta de resíduos.
+#### DragonDrone
+- Drone de voo autônomo para competições tecnológicas.
 
-### Alimentador de Pets IoT
-Dispositivo automatizado conectado à internet.
+#### Toxiscan
+- Sistema para detecção e alerta de gases tóxicos.
 
-### Respirador Mecânico Covid‑19
-Protótipo emergencial com impressão 3D.
+#### Ecoboat
+- Embarcação autônoma para coleta de resíduos.
 
-### WALL-E
-Robô educacional para oficinas e divulgação científica.
+#### Alimentador de Pets IoT
+- Dispositivo automatizado conectado à internet.
 
-### Protótipo do Veículo do Futuro
-Veículo terrestre autônomo em escala reduzida.
+#### Respirador Mecânico Covid‑19
+- Protótipo emergencial com impressão 3D.
 
----
+#### WALL-E
+- Robô educacional para oficinas e divulgação científica.
 
-# Produção Científica
+#### Protótipo do Veículo do Futuro
+- Veículo terrestre autônomo em escala reduzida.
 
-## 2025
-- SANTOS, R. O.; FERREIRA, E.; FUSCHILO, C. *Simulação Baseada em Agentes e Indicadores em ILPIs: Um Estudo para o Desenvolvimento do GeronTrack*.
+--- 
 
-## 2021
-- FUSCHILO, C.; SCHMITZ, E. A.; FEIJÓ, M. *Uma Proposta para Seleção de Portfólios Eficientes Utilizando Análise Envoltória de Dados (DEA)*.
+## Experiência Profissional
 
-## 2019
-- FUSCHILO, C.; ALENCAR, A. J.; SCHMITZ, E. A. *Proposta de uma Metodologia de Avaliação de Assistentes Virtuais Inteligentes: Aplicando DEA*.
-
-## 2017
-- LIMA, A. S.; RIBEIRO, S. A.; ALMEIDA, L. F.; FUSCHILO, C. *Um Sistema de Comunicação via Socket em uma Rede Wi‑Fi para Controle de um Robô de Inspeção*.
-
----
-
-# Orientações Concluídas
-
-## 2024
-### Fernanda Pereira Muniz
-*Aplicação para Otimização da Gestão de Pessoal na Atlântica Soluções*.
-
-## 2023
-### Vanessa Gonçalves Pais da Silva
-*Um Estudo de Caso sobre Problemas de Implantação de Software Off‑the‑Shelf em um Órgão Público Brasileiro*.
-
----
-
-# Experiência Profissional
-
-- **2008–Presente:** Professor EBTT em Dedicação Exclusiva – CEFET/RJ
+- **2008–Presente:** Professor EBTT em Dedicação Exclusiva – UFCIRJ
 - **2004:** Consultor em Análise e Projetos – Ágora Corretora
 - **2001–2002:** Instrutor de Multimídia – iSeven Informática
 - **2000–2001:** Gerente de Projeto – Mesa de Luz Produtora
