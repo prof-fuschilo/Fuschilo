@@ -17,7 +17,7 @@ Sou professor efetivo e estou coordenador do Bacharelado em Sistemas de Informa�
 * **Nome completo:** Cristiano Fuschilo
 * **Citações bibliográficas:** `FUSCHILO, C.`; `FUSCHILO, CRISTIANO`
 * **Atuação institucional:** Professor EBTT e Coordenador do Bacharelado em Sistemas de Informação (Campus Maria da Graça)
-* **Grupo de pesquisa:** **MAFis — Mundos Artificiais em Finanças** (PPGI/UFRJ e CEFET/RJ Maria da Graça)
+* **Grupo de pesquisa:** **MAFis — Mundos Artificiais em Finanças** (UFCIRJ e PPGI/UFRJ)
 * **Endereço profissional:** Rua Miguel Ângelo, 96 — Maria da Graça, CEP 20785-220, Rio de Janeiro — RJ, Brasil
 * **Telefone:** [(21) 3278-5502](tel:2132785502)
 * **Identificadores e links:**
