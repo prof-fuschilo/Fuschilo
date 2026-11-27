@@ -73,6 +73,10 @@ O laboratório **MAFis — Mundos Artificiais em Finanças** atua com simulaçõ
 
 ### Produção Científica
 
+#### 2025 | FUSCHILO, C.; PASSOS, G. G. F. G.; RIBEIRO, S. A.; SCHMITZ, E. A.; JESUS, R. M. S.; FRAGA, H.
+- *Concorrência entre varejo físico e comércio eletrônico em um modelo baseado em agentes* (Revista da Micro e Pequena Empresa)
+- 🔗Disponível em: https://www.cc.faccamp.br/ojs-2.4.8-2/index.php/RMPE/article/view/2217
+
 #### 2025 | SANTOS, R. O.; FERREIRA, E.; FUSCHILO, C. 
 - *Simulação Baseada em Agentes e Indicadores em ILPIs: Um Estudo para o Desenvolvimento do GeronTrack* (Anais do XIX WESAAC — ABMS, Simulação)
 
