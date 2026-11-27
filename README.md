@@ -67,9 +67,9 @@ Dissertação: *Avaliação de Assistentes Virtuais Inteligentes: Aplicando Aná
 
 ---
 
-## Pesquisa — Laboratório MAF (UFRJ / CEFET-RJ)
+## Pesquisa — MAFis (UFCIRJ & UFRJ)
 
-O laboratório **MAF — Mundos Artificiais em Finanças** atua com simulações complexas, ecossistemas multiagente (**ABMS**) e inteligência artificial para replicar, estudar e antecipar o comportamento emergente de mercados financeiros, reunindo **6 pesquisadores**, **6 frentes de pesquisa**, **2 instituições** (PPGI/UFRJ e CEFET/RJ Maria da Graça) e simulações com **140 agentes sintéticos autônomos** (incluindo perfis como fundamentalistas, chartistas e ruído, além de cenários como choque de liquidez).
+O laboratório **MAFis — Mundos Artificiais em Finanças** atua com simulações complexas, ecossistemas multiagente (**ABMS**) e inteligência artificial para replicar, estudar e antecipar o comportamento emergente de mercados financeiros, reunindo **6 pesquisadores**, **6 frentes de pesquisa**, **2 instituições** (UFCIRJ Campus Maria da Graça e PPGI/UFRJ) e simulações com **140 agentes sintéticos autônomos** (incluindo perfis como fundamentalistas, chartistas e ruído, além de cenários como choque de liquidez).
 
 ### Produção Científica
 
