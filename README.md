@@ -8,7 +8,7 @@
 ---  
 
 ## Um pouco mais sobre mim 💀
-Sou professor efetivo e estou coordenador do Bacharelado em Sistemas de Informação na **Universidade Federal de Ciência e Inovação do Rio de Janeiro, Campus Maria da Graça (antigo CEFET/RJ)**, pesquisador do laboratório **MAF — Mundos Artificiais em Finanças** (**PPGI/UFRJ** e **UFCIRJ Maria da Graça**) e doutorando em Informática na **UFRJ** (início em 2026).
+Sou professor efetivo e estou coordenador do Bacharelado em Sistemas de Informação na **Universidade Federal de Ciência e Inovação do Rio de Janeiro : Campus Maria da Graça (antigo CEFET/RJ)**, pesquisador do grupo **MAFis — Mundos Artificiais em Finanças** (**UFCIRJ** & **PPGI/UFRJ**) e doutorando em Informática na **UFRJ** (início em 2026).
 
 ---
 
@@ -17,7 +17,7 @@ Sou professor efetivo e estou coordenador do Bacharelado em Sistemas de Informa�
 * **Nome completo:** Cristiano Fuschilo
 * **Citações bibliográficas:** `FUSCHILO, C.`; `FUSCHILO, CRISTIANO`
 * **Atuação institucional:** Professor EBTT e Coordenador do Bacharelado em Sistemas de Informação (Campus Maria da Graça)
-* **Laboratório de pesquisa:** **MAF — Mundos Artificiais em Finanças** (PPGI/UFRJ e CEFET/RJ Maria da Graça)
+* **Grupo de pesquisa:** **MAFis — Mundos Artificiais em Finanças** (PPGI/UFRJ e CEFET/RJ Maria da Graça)
 * **Endereço profissional:** Rua Miguel Ângelo, 96 — Maria da Graça, CEP 20785-220, Rio de Janeiro — RJ, Brasil
 * **Telefone:** [(21) 3278-5502](tel:2132785502)
 * **Identificadores e links:**
@@ -89,7 +89,7 @@ O laboratório **MAFis — Mundos Artificiais em Finanças** atua com simulaçõ
 #### 2017 | LIMA, A. S.; RIBEIRO, S. A.; ALMEIDA, L. F.; FUSCHILO, C. 
 - *Um Sistema de Comunicação via Socket em uma Rede Wi‑Fi para Controle de um Robô de Inspeção*.
 
-Outras produções listadas no repositório do MAF abrangem temas como Mercados Artificiais, ABMS, DEA, Educação Financeira / OBInvest, Engenharia de Software, Otimização, Simulação e Modelagem (trabalhos de 2018 a 2026).
+Outras produções listadas no repositório do MAFis abrangem temas como Mercados Artificiais, ABMS, DEA, Educação Financeira / OBInvest, Engenharia de Software, Otimização, Simulação e Modelagem (trabalhos de 2018 a 2026).
 
 ---
 
